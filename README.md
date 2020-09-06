@@ -1,4 +1,4 @@
-# Predicting House Prices with Regression using Tensorflow 2.0
+# Predict House Prices with Regression using Tensorflow 2.0
 
 For this project, I have worked on predicting house prices given the following features:
 
@@ -11,7 +11,7 @@ For this project, I have worked on predicting house prices given the following f
 
 <hr>
 <h3>Pre-requisites / Preparation : </h3>
-<b>I have done this project using Anaconda distribution of python.</b> <br> 
+<b>This project is made using Anaconda distribution of python.</b> <br> 
  There are some general library requirements for the project which are as follows :
 <ul>
 <li>Tensorflow 2.0</li> 
