@@ -1,4 +1,4 @@
-# Predict House Prices with Regression using Tensorflow 2.0
+# Predict House Prices with Regression using Tensorflow2.0
 
 For this project, I have worked on predicting house prices given the following features:
 
