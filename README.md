@@ -14,12 +14,22 @@ For this project, I have worked on predicting house prices given the following f
 <b>This project is made using Anaconda distribution of python.</b> <br> 
  There are some general library requirements for the project which are as follows :
 <ul>
-<li>Tensorflow 2.0</li> 
-<li>Pandas</li>
-<li>Utils</li>
-<li>Matplotlib</li>
-<li>Scikit-learn</li>
-</ul>
+ <li>
+  <code>Tensorflow 2.0</code>
+ </li>
+ <li>
+  <code>Pandas</code>
+ </li>
+ <li>
+  <code>Utils</code>
+ </li>
+ <li>
+  <code>Matplotlib</code>
+ </li>
+ <li>
+  <code>Scikit-learn</code>
+ </li>
+ </ul>
 
 <b> Steps for preparation : </b>
 1. To set up this project first create a new virtual environment in Anaconda for Tensorflow.
