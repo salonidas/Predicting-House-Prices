@@ -33,8 +33,8 @@ For this project, I have worked on predicting house prices given the following f
 
 <b> Steps for preparation : </b>
 1. To set up this project first create a new virtual environment in Anaconda for Tensorflow.
-2. Install tensorflow and keras libraries in the new env.
-3. Then install all the regular python libraries (pandas, utils, matplotlib, scikit-learn).
+2. Install <code>tensorflow</code> and <code>keras</code> libraries in the new env.
+3. Then install all the regular python libraries (<code>pandas</code>, <code>utils</code>, <code>matplotlib</code>, <code>scikit-learn</code>).
 4. Then follow the steps given below.
 
 <hr>
